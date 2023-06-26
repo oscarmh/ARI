@@ -3,7 +3,7 @@
 #                * Azure Resource Inventory ( ARI ) Report Generator *                   #
 #                                                                                        #
 #       Version: 3.0.11                                                                  #
-#                                                                                        #
+#       SUbversion Finops                                                                           #
 #       Date: 06/07/2023                                                                 #
 #                                                                                        #
 ##########################################################################################
